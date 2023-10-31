@@ -1,0 +1,62 @@
+body{
+    background-image: url('./San-pham-my-pham-se-bi-thu-hoi-trong-9-truong-hop-sau_1-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-position: 700px 100px;
+    background-color: #fbf8f6;
+}
+header{
+    height: 70px;
+    background-color: #f4ddc9;
+}
+.bar{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+.h1{
+    padding-left: 600px;
+    margin-top: -50px;
+}
+.icon{
+    padding-left: 1360px;
+    margin-top: -45px;
+    gap: 20px;
+    display: flex;
+}
+.number{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    align-items: center;
+    margin-left: 1430px;
+    margin-top: -55px;
+    border-radius: 10px;
+}
+.h11{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.p{
+    width: 800px;
+    height: 20px;
+    flex-wrap: wrap;
+    font-size: 20px;
+    padding-top: 80px;
+    padding-left: 30px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: 100px;
+}
